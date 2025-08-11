@@ -25,14 +25,6 @@ I love solving problems, optimizing performance, and creating clean, maintainabl
 
 ---
 
-## 📂 Projects & Highlights  
-- Built a **real-time chat application** with Next.js  
-- Developed **web scrapers** for automated data collection  
-- Contributed to **responsive, high-performance web interfaces**  
-- Worked on **full project lifecycles** with deadlines and real users  
-
----
-
 ## 🎓 Education & Certifications  
 - **Rade Končar School of Electrical Engineering** – Computer Technician  
 - **IT Academy** – Frontend JavaScript Department  
