@@ -18,9 +18,9 @@ I love solving problems, optimizing performance, and creating clean, maintainabl
 
 ## 💻 Tech Stack  
 - **Languages:** JavaScript, TypeScript, HTML, CSS  
-- **Frameworks & Libraries:** React, Next.js, Redux  
+- **Frameworks & Libraries:** React, Next.js  
 - **Other Tools:** Tailwind CSS, Shadcn, Resend, Zustand  
-- **Backend Exposure:** CRUD operations, API integration, Node.js basics  
+- **Backend Exposure:** CRUD operations, API integration 
 - **Development Practices:** Code optimization, performance tuning, teamwork in real-world projects
 
 ---
