@@ -40,14 +40,7 @@ I love solving problems, optimizing performance, and creating clean, maintainabl
 - **Serbian:** Native  
 - **English:** B2 (Proficient)  
 
----
 
-## ⚡ Fun Facts  
-- Fast learner who enjoys challenges under pressure  
-- Strong communicator and team player  
-- Coffee + coding = 💡 best ideas  
-
----
 
 📫 **Let’s connect and build something amazing!**  
 
